@@ -1,7 +1,7 @@
 Game Of Life in JavaScript
 ====================
 
-# How To Run The game code
+# How To Run The Game
 
 #### Windows:
 Open the CMD (Command Prompt) and navigate to the game’s folder. Into the folder run the following command.
