@@ -23,5 +23,5 @@ node runGOL.js
 
 # Example Images
 
-![GOL-1](http://gmiaritis.com/golimg/Stage1.PNG)
 ![GOL-2](http://gmiaritis.com/golimg/Stage2.PNG)
+![GOL-1](http://gmiaritis.com/golimg/Stage1.PNG)
